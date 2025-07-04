@@ -20,8 +20,8 @@ export default function App() {
   return (
     <div className="font-sans text-gray-800 antialiased">
       {/* Intro Section - Brand Identity */}
-      <section className="bg-gradient-to-r from-amber-900 to-amber-700 py-16 text-white text-center">
-        <div className="container mx-auto px-6">
+      <section className="bg-gradient-brown py-16 text-white text-center">
+        <div className="container px-6 mx-auto">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Bienvenidos a Tierra & Alma</h2>
           <p className="max-w-xl mx-auto text-lg opacity-90">
             Un puente entre proyectos cafetaleros sostenibles y consumidores conscientes. 
