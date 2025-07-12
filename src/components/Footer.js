@@ -12,8 +12,8 @@ export default function Footer() {
             @tierrayalma
           </a>
           <span className={styles.dot}>·</span>
-          <a href="https://instagram.com/batara.cafe" target="_blank" rel="noopener noreferrer" className={styles.link}>
-            @batara.cafe
+          <a href="https://instagram.com/Bataracafedelaunion" target="_blank" rel="noopener noreferrer" className={styles.link}>
+            @Bataracafedelaunion
           </a>
         </div>
         <p className={styles.copyright}>

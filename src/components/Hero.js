@@ -37,8 +37,8 @@ export default function Hero({ email, setEmail, handleSubmit, subscribed, error 
             @tierrayalma
           </a>
           <span className="dot">·</span>
-          <a href="https://instagram.com/batara.cafe" target="_blank" rel="noopener noreferrer">
-            @batara.cafe
+          <a href="https://instagram.com/Bataracafedelaunion" target="_blank" rel="noopener noreferrer">
+            @Bataracafedelaunion
           </a>
         </div>
       </div>
