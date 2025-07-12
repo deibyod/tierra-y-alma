@@ -1,0 +1,59 @@
+.section {
+  background: #fff;
+  padding: 4rem 0;
+}
+.title {
+  font-size: 1.875rem;
+  font-weight: bold;
+  text-align: center;
+  color: #78350f;
+  margin-bottom: 1.5rem;
+}
+.text {
+  text-align: center;
+  color: #374151;
+  max-width: 40rem;
+  margin: 0 auto 2.5rem auto;
+  font-size: 1.125rem;
+  opacity: 0.9;
+}
+.flexCenter {
+  display: flex;
+  justify-content: center;
+}
+.card {
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 0.75rem;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.10);
+  max-width: 24rem;
+  width: 100%;
+  text-align: center;
+}
+.icon {
+  width: 3rem;
+  height: 3rem;
+  margin: 0 auto 1rem auto;
+  color: #ef4444;
+  display: block;
+}
+.subtitle {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: #78350f;
+}
+.location {
+  color: #4b5563;
+  margin-bottom: 0.75rem;
+}
+.altitude {
+  font-size: 0.95rem;
+  color: #6b7280;
+  font-style: italic;
+}
+.mapWrapper {
+  margin-top: 1rem;
+  border-radius: 0.75rem;
+  overflow: hidden;
+}
