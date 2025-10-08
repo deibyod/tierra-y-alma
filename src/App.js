@@ -44,29 +44,31 @@ export default function App() {
         {/* About Tierra & Alma */}
         <About />
 
-        {/* Hero Section */}
-        <Hero
-          email={email}
-          setEmail={setEmail}
-          handleSubmit={handleSubmit}
-          subscribed={subscribed}
-          error={error}
-        />
+        <section className="subcontent-section">
+          {/* Hero Section */}
+          <Hero
+            email={email}
+            setEmail={setEmail}
+            handleSubmit={handleSubmit}
+            subscribed={subscribed}
+            error={error}
+          />
 
-        {/* About Batará Section */}
-        <AboutBatara />
+          {/* About Batará Section */}
+          <AboutBatara />
 
-        {/* Gallery Section */}
-        <Gallery />
+          {/* Gallery Section */}
+          <Gallery />
 
-        {/* Sustainability and Birds Section */}
-        <Sustainability />
+          {/* Sustainability and Birds Section */}
+          <Sustainability />
 
-        {/* Ubicación */}
-        <LocationSection LocationIcon={LocationIcon} />
+          {/* Ubicación */}
+          <LocationSection LocationIcon={LocationIcon} />
 
-        {/* Testimonials Section */}
-        <Testimonials />
+          {/* Testimonials Section */}
+          <Testimonials />
+        </section>
 
         {/* Future Projects Section */}
         <FutureProjects CoffeeIcon={CoffeeIcon} StoreIcon={StoreIcon} TreeIcon={TreeIcon} />
