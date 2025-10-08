@@ -12,7 +12,7 @@ export default function AboutBatara() {
             <img
               src={cafeColombiaImg}
               alt="Café Colombia"
-              className="rounded-lg shadow-md w-full transform transition-transform hover:scale-105 duration-300"
+              className={styles.img}
             />
           </div>
           <div className="order-1 md:order-2 max-w-xl mx-auto text-lg text-gray-700 space-y-6">

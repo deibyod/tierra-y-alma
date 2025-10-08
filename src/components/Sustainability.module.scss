@@ -3,6 +3,12 @@
   padding: 4rem 0;
 }
 
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
 .title {
   font-size: 1.875rem;
   font-weight: bold;
@@ -14,10 +20,7 @@
 .grid {
   display: grid;
   gap: 2rem;
-}
-
-@media (min-width: 768px) {
-  .grid {
+  @media (min-width: 768px) {
     grid-template-columns: repeat(3, 1fr);
   }
 }
@@ -35,7 +38,9 @@
 }
 
 .img {
+  display: block;
   width: 100%;
+  max-width: 100%;
   height: 10rem;
   object-fit: cover;
   border-radius: 0.5rem;

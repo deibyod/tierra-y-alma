@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.subcontent-section {
+  background: #fffbe6;
+  border-radius: 1.5rem;
+  box-shadow: 0 4px 24px rgba(180, 83, 9, 0.08);
+  margin: 2.5rem 0;
+  padding: 2.5rem 0;
+}
