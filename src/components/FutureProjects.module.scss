@@ -1,18 +1,16 @@
 .section {
-  background: #fff;
   padding: 4rem 0;
-  //box-shadow: inset 0 4px 24px rgba(0,0,0,0.15);
 }
 .title {
   font-size: 1.875rem;
   font-weight: bold;
   text-align: center;
-  color: #78350f;
+  color: #7A583A;
   margin-bottom: 1.5rem;
 }
 .text {
   text-align: center;
-  color: #374151;
+  color: #3C2E25;
   max-width: 40rem;
   margin: 0 auto 2.5rem auto;
   font-size: 1.125rem;
@@ -29,7 +27,7 @@
   }
 }
 .card {
-  background: #fef3c7;
+  background: #f4cf9c;
   padding: 1.5rem;
   border-radius: 0.75rem;
   box-shadow: 0 4px 16px rgba(0,0,0,0.10);
@@ -43,11 +41,12 @@
   height: 3rem;
   margin: 0 auto 1rem auto;
   display: block;
+  color: #7A583A
 }
 .cardTitle {
   font-size: 1.25rem;
   font-weight: 600;
-  color: #92400e;
+  color: #7A583A;
   margin-bottom: 0.5rem;
 }
 .cardText {

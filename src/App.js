@@ -9,6 +9,7 @@ import Sustainability from './components/Sustainability';
 import LocationSection from './components/Location';
 import Testimonials from './components/Testimonials';
 import FutureProjects from './components/FutureProjects';
+import CallToAction from './components/CallToAction';
 import Footer from './components/Footer';
 import Subscribe from './components/Subscribe';
 
@@ -69,6 +70,9 @@ export default function App() {
 
           {/* Testimonials Section */}
           <Testimonials />
+
+          {/* CallToAction Section */}
+          <CallToAction />
         </section>
 
         {/* Future Projects Section */}

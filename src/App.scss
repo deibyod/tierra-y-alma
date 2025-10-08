@@ -1,3 +1,12 @@
+$color-primario: #7A583A; /* tierra cálida */
+$color-secundario: #C9A77B; /* arena suave */
+$color-acento: #DDAF6D; /* dorado claro */
+$color-fondo-acento: #f1d7b3; /* dorado claro */
+$color-fondo: #FAF7F3; /* beige claro */
+$color-texto: #3C2E25; /* marrón oscuro */
+$color-terciario: #5C896E; /* Verde Claro */
+$color-terciario-claro: #A6C7B9; /* Verde Claro */
+
 .App {
   text-align: center;
 }
@@ -43,4 +52,9 @@
   max-width: 98%;
   margin: 2.5rem auto;
   overflow: hidden;
+}
+
+body {
+  background: $color-fondo;
+  color: #3C2E25;
 }
