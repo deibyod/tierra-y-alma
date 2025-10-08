@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/tierra-y-alma/static/css/main.336e3e83.css",
-    "main.js": "/tierra-y-alma/static/js/main.b45de24a.js",
+    "main.js": "/tierra-y-alma/static/js/main.4595b97c.js",
     "static/js/453.f9bc0caa.chunk.js": "/tierra-y-alma/static/js/453.f9bc0caa.chunk.js",
+    "static/media/batara-1.jpeg": "/tierra-y-alma/static/media/batara-1.37d8290c151db5b216a4.jpeg",
     "index.html": "/tierra-y-alma/index.html",
     "main.336e3e83.css.map": "/tierra-y-alma/static/css/main.336e3e83.css.map",
-    "main.b45de24a.js.map": "/tierra-y-alma/static/js/main.b45de24a.js.map",
+    "main.4595b97c.js.map": "/tierra-y-alma/static/js/main.4595b97c.js.map",
     "453.f9bc0caa.chunk.js.map": "/tierra-y-alma/static/js/453.f9bc0caa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.336e3e83.css",
-    "static/js/main.b45de24a.js"
+    "static/js/main.4595b97c.js"
   ]
 }
