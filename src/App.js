@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './App.scss'; // Importa los estilos globales aquí
 import Hero from './components/Hero';
 import Navbar from './components/Navbar';
 import About from './components/About';
