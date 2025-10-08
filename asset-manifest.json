@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/tierra-y-alma/static/css/main.a74404e3.css",
-    "main.js": "/tierra-y-alma/static/js/main.1a88b400.js",
+    "main.css": "/tierra-y-alma/static/css/main.b9f4052e.css",
+    "main.js": "/tierra-y-alma/static/js/main.900d7234.js",
     "static/js/453.f9bc0caa.chunk.js": "/tierra-y-alma/static/js/453.f9bc0caa.chunk.js",
+    "static/media/batara-13.jpeg": "/tierra-y-alma/static/media/batara-13.65dcece093b8564576bc.jpeg",
+    "static/media/batara-11.jpeg": "/tierra-y-alma/static/media/batara-11.f2214be455d57d701385.jpeg",
+    "static/media/batara-3.jpeg": "/tierra-y-alma/static/media/batara-3.abec6439201bc9bc793e.jpeg",
+    "static/media/batara-15.jpeg": "/tierra-y-alma/static/media/batara-15.818f557be4439ea8e010.jpeg",
+    "static/media/batara-14.jpeg": "/tierra-y-alma/static/media/batara-14.a99ade95789794bb408c.jpeg",
+    "static/media/batara-12.jpeg": "/tierra-y-alma/static/media/batara-12.fb6a82cfc1e232e45078.jpeg",
+    "static/media/batara-7.jpeg": "/tierra-y-alma/static/media/batara-7.fbd86f9c8750d381c781.jpeg",
+    "static/media/batara-2.jpeg": "/tierra-y-alma/static/media/batara-2.8c711d39bd69cd716d63.jpeg",
+    "static/media/batara-4.jpeg": "/tierra-y-alma/static/media/batara-4.d95604b57396d6e0d280.jpeg",
+    "static/media/batara-9.jpeg": "/tierra-y-alma/static/media/batara-9.70efdc70bee3dc087b08.jpeg",
+    "static/media/batara-10.jpeg": "/tierra-y-alma/static/media/batara-10.bd08d15d23a74998a849.jpeg",
+    "static/media/batara-8.jpeg": "/tierra-y-alma/static/media/batara-8.2cc6aee445475e414da4.jpeg",
+    "static/media/batara-6.jpeg": "/tierra-y-alma/static/media/batara-6.fa8e7ebf4966cc566005.jpeg",
     "static/media/batara-1.jpeg": "/tierra-y-alma/static/media/batara-1.37d8290c151db5b216a4.jpeg",
     "index.html": "/tierra-y-alma/index.html",
-    "main.a74404e3.css.map": "/tierra-y-alma/static/css/main.a74404e3.css.map",
-    "main.1a88b400.js.map": "/tierra-y-alma/static/js/main.1a88b400.js.map",
+    "main.b9f4052e.css.map": "/tierra-y-alma/static/css/main.b9f4052e.css.map",
+    "main.900d7234.js.map": "/tierra-y-alma/static/js/main.900d7234.js.map",
     "453.f9bc0caa.chunk.js.map": "/tierra-y-alma/static/js/453.f9bc0caa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a74404e3.css",
-    "static/js/main.1a88b400.js"
+    "static/css/main.b9f4052e.css",
+    "static/js/main.900d7234.js"
   ]
 }
