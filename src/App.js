@@ -35,7 +35,7 @@ export default function App() {
       <Navbar />
       <div className="font-sans text-gray-800 antialiased" id="top">
         {/* Intro Section - Brand Identity */}
-        <section className="bg-gradient-brown text-white text-center tierra-alma-container">
+        <section className="welcome bg-gradient-brown text-white text-center tierra-alma-container">
           <div className="container px-6 mx-auto">
             <h1 className="text-3xl md:text-4xl">Bienvenidos a Tierra & Alma</h1>
             <p className="max-w-xl mx-auto text-lg opacity-90">

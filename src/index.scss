@@ -23,12 +23,13 @@ body {
   font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
   background: #fff;
   color: #333;
+  font-size: 21px;
 }
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
   font-weight: normal;
-  font-family: 'Chicle', sans-serif;
+  font-family: 'Bungee Inline', sans-serif;
 }
 
 .tierra-alma-container {
@@ -37,6 +38,12 @@ h1, h2, h3, h4, h5, h6 {
 
   h1, h2, h3, h4, h5, h6 {
     font-family: 'Bungee Inline', sans-serif;
+  }
+}
+
+.subcontent-section {
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Chicle', sans-serif;
   }
 }
 

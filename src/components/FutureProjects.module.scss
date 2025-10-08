@@ -1,19 +1,19 @@
 .section {
-  padding: 4rem 0;
+  padding: 10rem 0;
 }
 .title {
   font-size: 1.875rem;
   font-weight: bold;
   text-align: center;
   color: #7A583A;
-  margin-bottom: 1.5rem;
+  margin-bottom: 2rem;
 }
 .text {
   text-align: center;
   color: #3C2E25;
   max-width: 40rem;
-  margin: 0 auto 2.5rem auto;
-  font-size: 1.125rem;
+  margin: 0 auto 4rem auto;
+  font-size: 1em;
   opacity: 0.9;
 }
 .grid {
@@ -27,7 +27,7 @@
   }
 }
 .card {
-  background: #f4cf9c;
+  background: #faedda;
   padding: 1.5rem;
   border-radius: 0.75rem;
   box-shadow: 0 4px 16px rgba(0,0,0,0.10);

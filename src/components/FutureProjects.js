@@ -4,7 +4,7 @@ import styles from './FutureProjects.module.scss';
 export default function FutureProjects({ CoffeeIcon, StoreIcon, TreeIcon }) {
   return (
     <section className={styles.section}>
-      <div className="container mx-auto px-6 tierra-alma-container">
+      <div className="container mx-auto px-6">
         <h2 className={styles.title}>¿Hacia dónde vamos?</h2>
         <p className={styles.text}>
           Batará es solo un gran comienzo. En Tierra & Alma tenemos grandes planes.
